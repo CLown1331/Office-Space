@@ -1,0 +1,10 @@
+Floor #1: 774
+Floor #2: 655
+Floor #3: 640
+Floor #4: 668
+Floor #5: 581
+Floor #6: 641
+Floor #7: 660
+Floor #8: 678
+Floor #9: 661
+Floor #10: 632
