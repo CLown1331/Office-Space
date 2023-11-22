@@ -1,5 +1,0 @@
-Floor #1: 138
-Floor #2: 52
-Floor #3: 87
-Floor #4: 77
-Floor #5: 44

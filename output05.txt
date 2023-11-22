@@ -1,5 +1,0 @@
-Floor #1: 177
-Floor #2: 91
-Floor #3: 80
-Floor #4: 193
-Floor #5: 145

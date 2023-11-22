@@ -1,0 +1,3 @@
+Floor #1: 14
+Floor #2: 6
+Floor #3: 6
