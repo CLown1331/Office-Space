@@ -1,4 +1,4 @@
-#**Sample Input**
+# **Sample Input**
 ```
 3
 5 5
@@ -75,7 +75,7 @@
 01110
 ```
 
-#**Sample Output**
+# **Sample Output**
 ```
 Floor #1: 6
 Floor #2: 7
