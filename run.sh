@@ -38,7 +38,7 @@ zip testcase.zip Input/* Output/* Config.json
 echo testcase zipped
 
 
-echo "#**Sample Input**" > sample.md
+echo "# **Sample Input**" > sample.md
 echo "\`\`\`" >> sample.md
 cat Input/input1.txt >> sample.md
 echo "\`\`\`" >> sample.md
@@ -50,7 +50,7 @@ cat Input/input3.txt >> sample.md
 echo "\`\`\`" >> sample.md
 
 echo "" >> sample.md
-echo "#**Sample Output**" >> sample.md
+echo "# **Sample Output**" >> sample.md
 echo "\`\`\`" >> sample.md
 cat Output/output1.txt >> sample.md
 echo "\`\`\`" >> sample.md
